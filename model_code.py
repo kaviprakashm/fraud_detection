@@ -10,3 +10,5 @@ def model2():
 
 def model3():
     print("This is code for model3)
+
+print("The model2 is performing well and giving right result")
